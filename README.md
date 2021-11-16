@@ -29,5 +29,8 @@ Python – OOP, Libraries – Selenium, Pandas, Matplotlib. </b>
   After collecting the information there is an option to record it in a CSV file and use it.<br>
   Example of some analysis on this file: (written in jupyter notebook for a simple display)
   </b>
+  [youtube_analysis.pdf](https://github.com/Michal961/youtubes-best/files/7549106/youtube_analysis.pdf)
+
+  
     </p>
 
