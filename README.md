@@ -27,10 +27,10 @@ Python – OOP, Libraries – Selenium, Pandas, Matplotlib. </b>
  <p>
   <b>
   After collecting the information there is an option to record it in a CSV file and use it.<br>
-  Example of some analysis on this file: (written in jupyter notebook for a simple display)
-  </b>
-  [youtube_analysis.pdf](https://github.com/Michal961/youtubes-best/files/7549106/youtube_analysis.pdf)
-
-  
+  Some example of the analysis on this file: (written in jupyter notebook for a simple display)<br>
+    <a href="https://github.com/Michal961/youtubes-best/blob/main/src/youtube_analysis.ipynb"> Click for the full file</a><br><br>
+   <img src='https://github.com/Michal961/youtubes-best/blob/main/img/format.PNG' width='600'><br>
+     <img src='https://github.com/Michal961/youtubes-best/blob/main/img/likes.PNG' width='800'><br>
+     <img src='https://github.com/Michal961/youtubes-best/blob/main/img/stdLikes.PNG' width='600'>
     </p>
 
