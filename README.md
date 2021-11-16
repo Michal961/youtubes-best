@@ -6,7 +6,7 @@ Python – OOP, Libraries – Selenium, Pandas, Matplotlib. </b>
   
  <p>
  <b> Collects the relevant data from the site: </b>
-  <li>The rang </li>
+  <li>The rank </li>
   <li>The link of the song </li>
   <li>The relevant data from each song </li>
   </p>
